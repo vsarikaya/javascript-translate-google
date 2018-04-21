@@ -3,7 +3,7 @@
 Google translate without any api key
 
 **Include Js File**
-```
+```html
 <script type="text/javascript" src="_translate.min.js" charset="UTF-8"></script>
 ```
 
