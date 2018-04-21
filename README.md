@@ -4,7 +4,7 @@ Google translate without any api key
 
 **Include Js File**
 ```
-  <script type="text/javascript" src="_translate.js" charset="UTF-8"></script>
+  <script type="text/javascript" src="_translate.min.js" charset="UTF-8"></script>
 ```
 
 **Translate**
